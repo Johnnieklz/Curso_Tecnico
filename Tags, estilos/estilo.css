@@ -25,4 +25,5 @@
 
 .estilo tbody tr:hover{
     background-color: #ddd; /* Cor de fundo ao passar o mouse sobre a célula */
+    cursor: pointer; /* Cursor alterado para apontar para o mouse */
 }
